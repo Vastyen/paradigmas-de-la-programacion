@@ -1,16 +1,16 @@
 ## IMPORTANTE
 
-DEBES APRENDER A UTILIZAR GIT.
 
-### FAQ
-¿Qué es GIT?                   
+### DEBES APRENDER A UTILIZAR GIT.
+
+## ¿Qué es GIT?                   
 Git es un controlador de versiones para tu código, es una herramienta maravillosa. 
 ¡OJO!, no lo confundas con GitHub, éste último es un servicio para Git. Te permite subir tu código versionado y hacer varias cosas más interesantes.       
 
-¿Cómo usar GIT?               
+## ¿Cómo usar GIT?               
 Mira [éste video de Nicolás Schürmann](https://www.youtube.com/watch?v=VdGzPZ31ts8) donde te enseña detalladamente cómo utilizar git.
 
-¿Dónde descargo GIT?                        
+## ¿Dónde descargo GIT?                        
 [Descárgalo aquí](https://git-scm.com/downloads)
 
 Tus repositorios de GitHub deben ser privados. Si no puedes cambiar la privacidad de tus repositorios debes activar los beneficios de [GitHub Student Pack](https://education.github.com/pack) 
