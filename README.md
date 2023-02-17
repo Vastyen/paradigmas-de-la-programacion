@@ -2,7 +2,7 @@
 
 ## IMPORTANTE
 
-Antes de comenzar, NECESITAS APRENDER A UTILIZAR GIT.
+Antes de comenzar, DEBES APRENDER A UTILIZAR GIT.
 
 ¿Qué es GIT? Git es un controlador de versiones para tu código, es una herramienta maravillosa. 
 ¡OJO!, no lo confundas con GitHub, éste último es un servicio para Git. Te permite subir tu código versionado y hacer varias cosas más interesantes.
