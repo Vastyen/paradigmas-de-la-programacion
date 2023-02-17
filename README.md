@@ -1,5 +1,18 @@
 # Paradigmas de la Programación
 
+## No avances sin leer ésto 
+
+Antes de comenzar, debes aprender sí o sí a utilizar git.
+
+¿Qué es Git?         
+Git es un controlador de versiones para tu código, es una herramienta maravillosa. 
+¡OJO!, no lo confundas con GitHub, éste último es un servicio para Git. Te permite subir tu código versionado y hacer varias cosas más interesantes.
+
+¿Cómo se usa?
+Te recomiendo ver [éste video de Nicolás Schürmann](https://www.youtube.com/watch?v=VdGzPZ31ts8) donde te enseña detalladamente cómo utilizar git.
+
+
+
 ## Paradigma Funcional: Scheme - Intérprete de Lisp
 
 Todo es una función. No hay variables, no hay mutación de datos. Todo es recursión.
