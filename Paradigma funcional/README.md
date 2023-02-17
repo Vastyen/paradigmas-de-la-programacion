@@ -6,5 +6,5 @@ El paradigma de programación funcional también enfatiza en la inmutabilidad de
 Una característica importante y fundamental de la programación funcional es la recursividad, que se utiliza para repetir tareas y procesar estructuras de datos de forma eficiente.
 
 ## ¿Qué lenguaje de programación es utilizado en el curso?                   
-En este curso paa aprender programación funcional se utiliza el lenguaje de programación Racket, el cual en simples palabras es el lenguaje de programación Scheme pero con funciones adicionales.
+En este curso para aprender programación funcional se utiliza el lenguaje de programación Racket, el cual en simples palabras es el lenguaje de programación Scheme pero con funciones adicionales.
 El IDE utilizado en el curso es Dr Racket tanto para escribir código como para revisar los laboratorios.
