@@ -1,6 +1,6 @@
 # Paradigmas de la Programación
 
-## No avances sin leer ésto 
+## IMPORTANTE
 
 Antes de comenzar, NECESITAS APRENDER A UTILIZAR GIT.
 
