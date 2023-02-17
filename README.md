@@ -1,8 +1,6 @@
 # PARADIGMAS DE LA PROGRAMACIÓN
 
-## IMPORTANTE
-
-### DEBES APRENDER A UTILIZAR GIT.
+## IMPORTANTE: DEBES APRENDER A UTILIZAR GIT.
 
 ## ¿Qué es GIT?                   
 Git es un controlador de versiones para tu código, es una herramienta maravillosa. 
