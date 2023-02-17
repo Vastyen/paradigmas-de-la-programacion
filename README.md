@@ -12,9 +12,12 @@ Mira [éste video de Nicolás Schürmann](https://www.youtube.com/watch?v=VdGzPZ
 ## ¿Dónde descargo GIT?                        
 [Descárgalo aquí.](https://git-scm.com/downloads)                               
 
+________________________________________________________________________________________________________________
+             
               
-*Tus repositorios de GitHub deben ser privados. Si no puedes cambiar la privacidad de tus repositorios debes activar los beneficios de [GitHub Student Pack](https://education.github.com/pack)*
+Tus repositorios de GitHub deben ser privados. Si no puedes cambiar la privacidad de tus repositorios debes activar los beneficios de [GitHub Student Pack](https://education.github.com/pack)
 
+________________________________________________________________________________________________________________
 
 
 ## Paradigma Funcional: Scheme - Intérprete de Lisp
