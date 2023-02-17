@@ -10,7 +10,7 @@ Git es un controlador de versiones para tu código, es una herramienta maravillo
 Mira [éste video de Nicolás Schürmann](https://www.youtube.com/watch?v=VdGzPZ31ts8) donde te enseña detalladamente cómo utilizar GIT.
 
 ## ¿Dónde descargo GIT?                        
-[Descárgalo aquí](https://git-scm.com/downloads)
+[Descárgalo aquí.](https://git-scm.com/downloads)                               
 
 Tus repositorios de GitHub deben ser privados. Si no puedes cambiar la privacidad de tus repositorios debes activar los beneficios de [GitHub Student Pack](https://education.github.com/pack) 
 
