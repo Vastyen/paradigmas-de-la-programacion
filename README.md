@@ -4,13 +4,12 @@
 
 Antes de comenzar, NECESITAS APRENDER A UTILIZAR GIT.
 
-¿Qué es GIT?         
-Git es un controlador de versiones para tu código, es una herramienta maravillosa. 
+¿Qué es GIT? Git es un controlador de versiones para tu código, es una herramienta maravillosa. 
 ¡OJO!, no lo confundas con GitHub, éste último es un servicio para Git. Te permite subir tu código versionado y hacer varias cosas más interesantes.
 
-¿Cómo se usa?
-Te recomiendo ver [éste video de Nicolás Schürmann](https://www.youtube.com/watch?v=VdGzPZ31ts8) donde te enseña detalladamente cómo utilizar git.
+¿Cómo se usa? Mira [éste video de Nicolás Schürmann](https://www.youtube.com/watch?v=VdGzPZ31ts8) donde te enseña detalladamente cómo utilizar git.
 
+Tus repositorios de GitHub deben ser privados. Si no puedes cambiar la privacidad de tus repositorios debes activar los beneficios de [GitHub Student Pack](https://education.github.com/pack) 
 
 
 ## Paradigma Funcional: Scheme - Intérprete de Lisp
