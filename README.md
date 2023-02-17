@@ -33,7 +33,7 @@ Todo es una función. No hay variables, no hay mutación de datos. Todo es recur
 ________________________________________________________________________________________________________________
 
 
-## Paradigma Lógico: Prolog - Swit
+## Paradigma Lógico: Prolog - SWI-Prolog
 
 ## Paradigma Orientado a Objetos: Java 
 
