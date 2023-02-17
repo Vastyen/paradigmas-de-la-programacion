@@ -4,10 +4,10 @@
 
 ## ¿Qué es GIT?                   
 Git es un controlador de versiones para tu código, es una herramienta maravillosa. 
-¡OJO!, no lo confundas con GitHub, éste último es un servicio para Git. Te permite subir tu código versionado y hacer varias cosas más interesantes.       
+¡OJO!, no lo confundas con GitHub, éste último es un servicio para GIT. Te permite subir tu código versionado y hacer varias cosas más interesantes.       
 
 ## ¿Cómo usar GIT?               
-Mira [éste video de Nicolás Schürmann](https://www.youtube.com/watch?v=VdGzPZ31ts8) donde te enseña detalladamente cómo utilizar git.
+Mira [éste video de Nicolás Schürmann](https://www.youtube.com/watch?v=VdGzPZ31ts8) donde te enseña detalladamente cómo utilizar GIT.
 
 ## ¿Dónde descargo GIT?                        
 [Descárgalo aquí](https://git-scm.com/downloads)
