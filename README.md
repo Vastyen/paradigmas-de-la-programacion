@@ -43,7 +43,15 @@ ________________________________________________________________________________
 
 ## Paradigma Lógico: Prolog - SWI-Prolog
 
-## Paradigma Orientado a Objetos: Java 
+## Paradigma Orientado a Objetos: Java ☕
+En este paradigma se utiliza el lenguaje de programació Java, el cual cuenta con un paradigma orientado a objetos para operar. 
+
+### Links de interés
+[• Curso básico de java - Programación ATS](https://youtube.com/playlist?list=PLWtYZ2ejMVJkjOuTCzIk61j7XKfpIR74K)
+
+[• IDE para programar en Java - Intellij Idea](https://www.jetbrains.com/es-es/idea/download/)
+
+[~ Revisar contenidos 📚 ~](https://github.com/vastien/paradigmas-de-la-programacion/tree/main/Paradigma%20orientado%20a%20objetos%20(POO))
 
 ## Paradigma Orientado a Eventos: Java
 
