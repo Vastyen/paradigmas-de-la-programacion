@@ -46,7 +46,8 @@ En este paradigma de utiliza el lenguaje de Programación Prolog, el cual utiliz
 
 ### Links de interés
 
-[• Descarga y documentación de Prolog]/(https://www.swi-prolog.org/)
+[• Descarga y documentación de Prolog](https://www.swi-prolog.org/)
+
 [• Prolog Online](https://swish.swi-prolog.org/)
 
 ## Paradigma Orientado a Objetos: Java ☕
